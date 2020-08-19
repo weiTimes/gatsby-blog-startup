@@ -1,8 +1,28 @@
 @charset "utf-8";
 // If need, change your variables before importing Bulma
 // $title-color: #ff0000;
-@import "~bulma/bulma.sass";
 
-h1 {
-    line-height: 1.5;
+@import "~bulma/sass/utilities/_all";
+@import "~bulma/sass/base/_all"; // 由于这里使用了typography的主题，就不需要bulma的样式重置了
+@import "~bulma/sass/elements/_all";
+@import "~bulma/sass/form/_all";
+@import "~bulma/sass/components/_all";
+@import "~bulma/sass/grid/_all";
+@import "~bulma/sass/layout/_all";
+
+$footer-background-color: #0af;
+$footer-padding: 0;
+$footer-color: true;
+
+@font-face {
+  font-family: "Whitney";
+  src: url("../../static/fonts/Whitney-Font/whitney-semibold.otf") format("otf");
+}
+
+body {
+  font-family: "Lora";
+}
+
+.has-text-centered {
+  text-align: center;
 }

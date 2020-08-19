@@ -7,3 +7,4 @@ excerpt: "A preview of my second post~"
 
 
 ahhhh, my second blog post!
+欢迎来到我的第二篇博客

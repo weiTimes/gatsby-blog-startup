@@ -1028,6 +1028,32 @@
   resolved "https://registry.npm.taobao.org/@emotion/weak-memoize/download/@emotion/weak-memoize-0.2.5.tgz#8eed982e2ee6f7f4e44c253e12962980791efd46"
   integrity sha1-ju2YLi7m9/TkTCU+EpYpgHke/UY=
 
+"@fortawesome/fontawesome-common-types@^0.2.28":
+  version "0.2.28"
+  resolved "https://registry.npm.taobao.org/@fortawesome/fontawesome-common-types/download/@fortawesome/fontawesome-common-types-0.2.28.tgz#1091bdfe63b3f139441e9cba27aa022bff97d8b2"
+  integrity sha1-EJG9/mOz8TlEHpy6J6oCK/+X2LI=
+
+"@fortawesome/fontawesome-svg-core@^1.2.28":
+  version "1.2.28"
+  resolved "https://registry.npm.taobao.org/@fortawesome/fontawesome-svg-core/download/@fortawesome/fontawesome-svg-core-1.2.28.tgz#e5b8c8814ef375f01f5d7c132d3c3a2f83a3abf9"
+  integrity sha1-5bjIgU7zdfAfXXwTLTw6L4Ojq/k=
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "^0.2.28"
+
+"@fortawesome/free-brands-svg-icons@^5.13.0":
+  version "5.13.0"
+  resolved "https://registry.npm.taobao.org/@fortawesome/free-brands-svg-icons/download/@fortawesome/free-brands-svg-icons-5.13.0.tgz?cache=0&sync_timestamp=1584979846861&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40fortawesome%2Ffree-brands-svg-icons%2Fdownload%2F%40fortawesome%2Ffree-brands-svg-icons-5.13.0.tgz#e79de73ba6555055204828dca9c0691e7ce5242b"
+  integrity sha1-553nO6ZVUFUgSCjcqcBpHnzlJCs=
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "^0.2.28"
+
+"@fortawesome/react-fontawesome@^0.1.9":
+  version "0.1.9"
+  resolved "https://registry.npm.taobao.org/@fortawesome/react-fontawesome/download/@fortawesome/react-fontawesome-0.1.9.tgz#c865b9286c707407effcec99958043711367cd02"
+  integrity sha1-yGW5KGxwdAfv/OyZlYBDcRNnzQI=
+  dependencies:
+    prop-types "^15.7.2"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -3523,7 +3549,7 @@ commondir@^1.0.1:
   resolved "https://registry.yarnpkg.com/commondir/-/commondir-1.0.1.tgz#ddd800da0c66127393cca5950ea968a3aaf1253b"
   integrity sha1-3dgA2gxmEnOTzKWVDqloo6rxJTs=
 
-compass-vertical-rhythm@^1.4.5:
+compass-vertical-rhythm@^1.2.1, compass-vertical-rhythm@^1.4.5:
   version "1.4.5"
   resolved "https://registry.npm.taobao.org/compass-vertical-rhythm/download/compass-vertical-rhythm-1.4.5.tgz#4baa8d7068fda164d3675d706775d7547e8750f5"
   integrity sha1-S6qNcGj9oWTTZ11wZ3XXVH6HUPU=
@@ -13775,6 +13801,56 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
+typeface-alegreya@^0.0.69:
+  version "0.0.69"
+  resolved "https://registry.npm.taobao.org/typeface-alegreya/download/typeface-alegreya-0.0.69.tgz#92d82f3e68360d5d5cee01be812f5aeb19ade8a7"
+  integrity sha1-ktgvPmg2DV1c7gG+gS9a6xmt6Kc=
+
+typeface-bigelow-rules@^0.0.71:
+  version "0.0.71"
+  resolved "https://registry.npm.taobao.org/typeface-bigelow-rules/download/typeface-bigelow-rules-0.0.71.tgz#d635aea771dc54d67df0162e6833c5a6ac15dcf7"
+  integrity sha1-1jWup3HcVNZ98BYuaDPFpqwV3Pc=
+
+typeface-hind-madurai@^0.0.72:
+  version "0.0.72"
+  resolved "https://registry.npm.taobao.org/typeface-hind-madurai/download/typeface-hind-madurai-0.0.72.tgz#e0804ed6c4a12944c3a48073c33cab339b0b269d"
+  integrity sha1-4IBO1sShKUTDpIBzwzyrM5sLJp0=
+
+typeface-inconsolata@^0.0.72:
+  version "0.0.72"
+  resolved "https://registry.npm.taobao.org/typeface-inconsolata/download/typeface-inconsolata-0.0.72.tgz#6b5c92132c7d3e83f7a17025087d8d717ada63d5"
+  integrity sha1-a1ySEyx9PoP3oXAlCH2NcXraY9U=
+
+typeface-lora@^0.0.72:
+  version "0.0.72"
+  resolved "https://registry.npm.taobao.org/typeface-lora/download/typeface-lora-0.0.72.tgz#850c211ef51167d8b71b610c93a9b1ca0f17863c"
+  integrity sha1-hQwhHvURZ9i3G2EMk6mxyg8Xhjw=
+
+typeface-noto-serif@^0.0.72:
+  version "0.0.72"
+  resolved "https://registry.npm.taobao.org/typeface-noto-serif/download/typeface-noto-serif-0.0.72.tgz#798e917662322443cec944ac68e2ebd42c2dd2ec"
+  integrity sha1-eY6RdmIyJEPOyUSsaOLr1Cwt0uw=
+
+typeface-open-sans@^0.0.75:
+  version "0.0.75"
+  resolved "https://registry.npm.taobao.org/typeface-open-sans/download/typeface-open-sans-0.0.75.tgz#20d0c330f14c0c40463c334adbedd6005389abe4"
+  integrity sha1-INDDMPFMDEBGPDNK2+3WAFOJq+Q=
+
+typeface-oswald@^1.1.4:
+  version "1.1.4"
+  resolved "https://registry.npm.taobao.org/typeface-oswald/download/typeface-oswald-1.1.4.tgz#2025c5b11ba8b40475166edb80d921a707a1f627"
+  integrity sha1-ICXFsRuotAR1Fm7bgNkhpweh9ic=
+
+typeface-roboto-condensed@^0.0.75:
+  version "0.0.75"
+  resolved "https://registry.npm.taobao.org/typeface-roboto-condensed/download/typeface-roboto-condensed-0.0.75.tgz#d2cc7b8e4ee0f4dec1c035312ef8991827682925"
+  integrity sha1-0sx7jk7g9N7BwDUxLviZGCdoKSU=
+
+typeface-vollkorn@^0.0.72:
+  version "0.0.72"
+  resolved "https://registry.npm.taobao.org/typeface-vollkorn/download/typeface-vollkorn-0.0.72.tgz#eab29df42e6ae5ab96ff4a062f071ad439c27060"
+  integrity sha1-6rKd9C5q5auW/0oGLwca1DnCcGA=
+
 typography-breakpoint-constants@^0.16.19:
   version "0.16.19"
   resolved "https://registry.npm.taobao.org/typography-breakpoint-constants/download/typography-breakpoint-constants-0.16.19.tgz#e0e89147749562cbb46ce76c47ff0f73372765e7"
@@ -13785,6 +13861,15 @@ typography-normalize@^0.16.19:
   resolved "https://registry.npm.taobao.org/typography-normalize/download/typography-normalize-0.16.19.tgz#58e0cf12466870c5b27006daa051fe7307780660"
   integrity sha1-WODPEkZocMWycAbaoFH+cwd4BmA=
 
+typography-theme-alton@^0.16.19:
+  version "0.16.19"
+  resolved "https://registry.npm.taobao.org/typography-theme-alton/download/typography-theme-alton-0.16.19.tgz#0204ae473e159f4a66c76f3f8a6edd98e4d63625"
+  integrity sha1-AgSuRz4Vn0pmx28/im7dmOTWNiU=
+  dependencies:
+    compass-vertical-rhythm "^1.2.1"
+    gray-percentage "^2.0.0"
+    typography-breakpoint-constants "^0.16.19"
+
 typography-theme-fairy-gates@^0.16.19:
   version "0.16.19"
   resolved "https://registry.npm.taobao.org/typography-theme-fairy-gates/download/typography-theme-fairy-gates-0.16.19.tgz#db07be642d7fbed7ebbb5b81a078cbe89def5806"
@@ -13793,10 +13878,43 @@ typography-theme-fairy-gates@^0.16.19:
     gray-percentage "^2.0.0"
     typography-breakpoint-constants "^0.16.19"
 
+typography-theme-judah@^0.16.19:
+  version "0.16.19"
+  resolved "https://registry.npm.taobao.org/typography-theme-judah/download/typography-theme-judah-0.16.19.tgz#b037a287d0cf75f36d1894080c7f85fe5b9f2222"
+  integrity sha1-sDeih9DPdfNtGJQIDH+F/lufIiI=
+  dependencies:
+    gray-percentage "^2.0.0"
+    typography-breakpoint-constants "^0.16.19"
+
 typography-theme-kirkham@^0.16.19:
   version "0.16.19"
   resolved "https://registry.npm.taobao.org/typography-theme-kirkham/download/typography-theme-kirkham-0.16.19.tgz#17c83ac32a24696b62546d760fd67540ad8ce582"
   integrity sha1-F8g6wyokaWtiVG12D9Z1QK2M5YI=
+  dependencies:
+    gray-percentage "^2.0.0"
+    typography-breakpoint-constants "^0.16.19"
+
+typography-theme-lawton@^0.16.19:
+  version "0.16.19"
+  resolved "https://registry.npm.taobao.org/typography-theme-lawton/download/typography-theme-lawton-0.16.19.tgz#2ddfff6de8a8b63137ff1ea4d7c89d9863a955d1"
+  integrity sha1-Ld//beiotjE3/x6k18idmGOpVdE=
+  dependencies:
+    compass-vertical-rhythm "^1.2.1"
+    gray-percentage "^2.0.0"
+    typography-breakpoint-constants "^0.16.19"
+
+typography-theme-sutro@^0.16.19:
+  version "0.16.19"
+  resolved "https://registry.npm.taobao.org/typography-theme-sutro/download/typography-theme-sutro-0.16.19.tgz#9fb9ca6d4cf4fc101f33ceb3a7b77ae68b443247"
+  integrity sha1-n7nKbUz0/BAfM86zp7d65otEMkc=
+  dependencies:
+    gray-percentage "^2.0.0"
+    typography-breakpoint-constants "^0.16.19"
+
+typography-theme-twin-peaks@^0.16.19:
+  version "0.16.19"
+  resolved "https://registry.npm.taobao.org/typography-theme-twin-peaks/download/typography-theme-twin-peaks-0.16.19.tgz#e8444702e3c25b7107a4c6918dd72c664c31405b"
+  integrity sha1-6ERHAuPCW3EHpMaRjdcsZkwxQFs=
   dependencies:
     gray-percentage "^2.0.0"
     typography-breakpoint-constants "^0.16.19"

@@ -29,6 +29,11 @@ const UserWrapper = styled.div`
   }
 ```
 * 使用GraphQL数据查询语言，为React组件提供数据
+* Google Font
+**typeface-open-sans**
+* Font Awesome
+  [fontawesome](https://fontawesome.com/)
+
 
 ### 插件
 * gatsby-source-filesystem
